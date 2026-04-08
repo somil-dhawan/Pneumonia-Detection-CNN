@@ -30,6 +30,8 @@ detect pneumonia from chest X-ray images.
 
 The dataset contains labeled X-ray images for pneumonia and normal cases.
 
+Link : https://drive.google.com/drive/folders/1aKNNvbRGAYbHzUyqlzi7o1j4D0Fr05DG?usp=drive_link
+
 ## ⚙️ Methodology
 
 - Used transfer learning with ResNet18
