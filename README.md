@@ -1,7 +1,9 @@
 # Pneumonia-Detection-CNN
 Convolutional Neural Network designed to detect pneumonia using X-Ray images.
 
-
+ACHIEVED 96% Validation accuracy for the model.
+Recall - 0.96
+Precision 0.96
 ## 📌 Problem
 
 Pneumonia is a serious lung infection that requires early diagnosis. 
